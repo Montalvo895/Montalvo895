@@ -65,10 +65,9 @@ Currently expanding into **IoT architectures and Linux-based environments** to b
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Montalvo895&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Montalvo895&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montalvo895&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montalvo895&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 ## 📫 Contact
