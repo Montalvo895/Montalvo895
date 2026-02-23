@@ -72,5 +72,5 @@ Currently expanding into **IoT architectures and Linux-based environments** to b
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/TU-USUARIO
-- Email: tuemail@correo.com
+- LinkedIn: https://www.linkedin.com/in/carlos-antonio-montalvo-zambrano-428b1a314/
+- Email: carlosantonio7067@gmail.com
