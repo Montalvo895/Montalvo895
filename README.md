@@ -1,4 +1,4 @@
-<img src="assets/pcb.png" width="100%" />
+<img src="assets/pcb.png" width="800" />
 
 # Carlos Montalvo  
 ### PCB Design & Embedded Systems Engineer
