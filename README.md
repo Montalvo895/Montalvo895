@@ -1,16 +1,39 @@
-## Hi there 👋
+# Carlos Montalvo  
+### PCB Design & Embedded Systems
 
-<!--
-**Montalvo895/Montalvo895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronic Engineering student focused on PCB design and embedded hardware development.  
+Experience taking designs from schematic capture to multilayer board layout and system validation.
 
-Here are some ideas to get you started:
+Currently expanding into IoT architectures and Linux-based environments for scalable device deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Core Areas
+- PCB Design (schematic & layout)
+- Embedded Systems Development
+- Sensor Integration (IMU-based systems)
+- Power Management Circuits
+- Hardware Prototyping & Validation
+
+---
+
+## 🚀 Current Focus
+- Compact multilayer PCB development  
+- Low-power wearable device architecture  
+- Embedded + IoT system integration  
+- Linux environments for device deployment  
+
+---
+
+## 🛠 Tools & Technologies
+- KiCad / Altium (PCB Design)
+- C / Embedded Programming
+- Docker
+- Linux (Ubuntu)
+- MATLAB (System Modeling)
+
+---
+
+## 📫 Contact
+- LinkedIn: (add your link)
+- Email: (professional email)
