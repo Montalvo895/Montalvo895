@@ -57,17 +57,10 @@ Currently expanding into **IoT architectures and Linux-based environments** to b
 
 ---
 
-## 🖼 Featured Hardware Work
-
-<img src="pcb_render.png" width="600"/>
-
----
-
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Montalvo895&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montalvo895&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Montalvo895&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Montalvo895&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Contact
