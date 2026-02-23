@@ -57,11 +57,20 @@ Currently expanding into **IoT architectures and Linux-based environments** to b
 
 ---
 
+---
+
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Montalvo895&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Montalvo895&layout=compact&theme=tokyonight)
----
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Montalvo895&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Montalvo895&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
 
 ## 📫 Contact
 
