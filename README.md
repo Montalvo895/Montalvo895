@@ -55,9 +55,7 @@ Currently expanding into **IoT architectures and Linux-based environments** to b
 - Docker
 - MATLAB (System Modeling)
 
----
-
----
+-------
 
 ## 📊 GitHub Activity
 
