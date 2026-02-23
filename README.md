@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pcb.png" width="600" />
+  <img src="assets/pcb.png" width="400" />
 </p>
 
 # Carlos Montalvo  
