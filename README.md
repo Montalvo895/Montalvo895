@@ -35,5 +35,5 @@ Currently expanding into IoT architectures and Linux-based environments for scal
 ---
 
 ## 📫 Contact
-- LinkedIn: (add your link)
-- Email: (professional email)
+- LinkedIn: https://www.linkedin.com/in/carlos-antonio-montalvo-zambrano-428b1a314/
+- Email: carlosantonio7067@gmail.com
